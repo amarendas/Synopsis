@@ -1,0 +1,142 @@
+\begin{thebibliography}{10}
+
+\bibitem{guarnieri2004development}
+M.~Guarnieri, R.~Debenest, T.~Inoh, E.~Fukushima, and S.~Hirose, ``Development
+  of helios vii: an arm-equipped tracked vehicle for search and rescue
+  operations,'' in {\em Intelligent Robots and Systems, 2004.(IROS 2004).
+  Proceedings. 2004 IEEE/RSJ International Conference on}, vol.~1, pp.~39--45,
+  IEEE, 2004.
+
+\bibitem{pal2007mobile}
+P.~Pal, K.~Jayarajan, D.~Ray, M.~Singh, V.~Mahadev, B.~Sony, V.~Shrivastava,
+  A.~Jha, R.~Sakrikar, D.~Mishra, {\em et~al.}, ``A mobile robot that removed
+  and disposed ammunition boxes,'' {\em Current Science}, pp.~1673--1677, 2007.
+
+\bibitem{sheridan}
+T.~B. Sheridan, ``Space teleoperation through time delay: review and
+  prognosis,'' {\em IEEE Transactions on Robotics and Automation}, vol.~9,
+  no.~5, October 1993.
+
+\bibitem{briones1994wall}
+L.~Briones, P.~Bustamante, and M.~A. Serna, ``Wall-climbing robot for
+  inspection in nuclear power plants,'' in {\em Robotics and Automation, 1994.
+  Proceedings., 1994 IEEE International Conference on}, pp.~1409--1414, IEEE,
+  1994.
+
+\bibitem{kim20173d}
+D.~Kim, H.~Woo, Y.~Ji, Y.~Tamura, A.~Yamashita, and H.~Asama, ``3d radiation
+  imaging using mobile robot equipped with radiation detector,'' in {\em System
+  Integration (SII), 2017 IEEE/SICE International Symposium on}, pp.~444--449,
+  IEEE, 2017.
+
+\bibitem{ohno2011robotic}
+K.~Ohno, S.~Kawatsuma, T.~Okada, E.~Takeuchi, K.~Higashi, and S.~Tadokoro,
+  ``Robotic control vehicle for measuring radiation in fukushima daiichi
+  nuclear power plant,'' in {\em Safety, Security, and Rescue Robotics (SSRR),
+  2011 IEEE International Symposium on}, pp.~38--43, IEEE, 2011.
+
+\bibitem{yamamoto1992coordinating}
+Y.~Yamamoto and X.~Yun, ``Coordinating locomotion and manipulation of a mobile
+  manipulator,'' in {\em Decision and Control, 1992., Proceedings of the 31st
+  IEEE Conference on}, pp.~2643--2648, IEEE, 1992.
+
+\bibitem{rajendran2004}
+S.~Rajendran and et.al., ``Mobile robot for reactor vessel inspection,'' in
+  {\em National Conference on Advanced Manufacturing and Robotics},
+  pp.~2527--2532, CMERI, Durgapur,WB,, 2004.
+
+\bibitem{saha1989kinematics}
+S.~K. Saha and J.~Angeles, ``Kinematics and dynamics of a three-wheeled 2-dof
+  agv,'' in {\em Robotics and Automation, 1989. Proceedings., 1989 IEEE
+  International Conference on}, pp.~1572--1577, IEEE, 1989.
+
+\bibitem{pin1994new}
+F.~G. Pin and S.~M. Killough, ``A new family of omnidirectional and holonomic
+  wheeled platforms for mobile robots,'' {\em IEEE transactions on robotics and
+  automation}, vol.~10, no.~4, pp.~480--489, 1994.
+
+\bibitem{salih2006designing}
+J.~E.~M. Salih, M.~Rizon, S.~Yaacob, A.~H. Adom, and M.~R. Mamat, ``Designing
+  omni-directional mobile robot with mecanum wheel,'' {\em American Journal of
+  Applied Sciences}, vol.~3, no.~5, pp.~1831--1835, 2006.
+
+\bibitem{suthakorn2009design}
+J.~Suthakorn, S.~S.~H. Shah, S.~Jantarajit, W.~Onprasert, W.~Saensupo,
+  S.~Saeung, S.~Nakdhamabhorn, V.~Sa-Ing, and S.~Reaungamornrat, ``On the
+  design and development of a rough terrain robot for rescue missions,'' in
+  {\em Robotics and Biomimetics, 2008. ROBIO 2008. IEEE International
+  Conference on}, pp.~1830--1835, IEEE, 2009.
+
+\bibitem{nagatani2000improvement}
+K.~Nagatani, S.~Tachibana, M.~Sofne, and Y.~Tanaka, ``Improvement of odometry
+  for omnidirectional vehicle using optical flow information,'' in {\em
+  Intelligent Robots and Systems, 2000.(IROS 2000). Proceedings. 2000 IEEE/RSJ
+  International Conference on}, vol.~1, pp.~468--473, IEEE, 2000.
+
+\bibitem{TOMBook}
+T.~Bevan, {\em Theory of Machines, Third Edition}.
+\newblock Delhi, India: CBS Publishers \& Distributors, 1984.
+
+\bibitem{d1991modelling}
+B.~d'Andrea Novel, G.~Bastin, and G.~Campion, ``Modelling and control of
+  non-holonomic wheeled mobile robots,'' in {\em Robotics and Automation, 1991.
+  Proceedings., 1991 IEEE International Conference on}, pp.~1130--1135, IEEE,
+  1991.
+
+\bibitem{thanjavur1997ease}
+K.~Thanjavur and R.~Rajagopalan, ``Ease of dynamic modelling of wheeled mobile
+  robots (wmrs) using kane's approach,'' in {\em Robotics and Automation, 1997.
+  Proceedings., 1997 IEEE International Conference on}, vol.~4, pp.~2926--2931,
+  IEEE, 1997.
+
+\bibitem{saha1991dynamics}
+S.~K. Saha and J.~Angeles, ``Dynamics of nonholonomic mechanical systems using
+  a natural orthogonal complement,'' {\em Journal of Applied Mechanics},
+  vol.~58, no.~1, pp.~238--243, 1991.
+
+\bibitem{coulter1992implementation}
+R.~C. Coulter, ``Implementation of the pure pursuit path tracking algorithm,''
+  tech. rep., Carnegie-Mellon UNIV Pittsburgh PA Robotics INST, 1992.
+
+\bibitem{ollero1995stability}
+A.~Ollero and G.~Heredia, ``Stability analysis of mobile robot path tracking,''
+  in {\em Intelligent Robots and Systems 95.'Human Robot Interaction and
+  Cooperative Robots', Proceedings. 1995 IEEE/RSJ International Conference on},
+  vol.~3, pp.~461--466, IEEE, 1995.
+
+\bibitem{murphy1994analysis}
+K.~N. Murphy, ``Analysis of robotic vehicle steering and controller delay,'' in
+  {\em Fifth International Symposium on Robotics and Manufacturing (ISRAM)},
+  pp.~631--636, Citeseer, 1994.
+
+\bibitem{smith1959controller}
+O.~J. Smith, ``A controller to overcome dead time,'' {\em ISA J.}, vol.~6,
+  pp.~28--33, 1959.
+
+\bibitem{miall1993intermittency}
+R.~C. Miall, D.~Weir, and J.~Stein, ``Intermittency in human manual tracking
+  tasks,'' {\em Journal of motor behavior}, vol.~25, no.~1, pp.~53--63, 1993.
+
+\bibitem{miall1985visuomotor}
+R.~Miall, D.~Weir, and J.~Stein, ``Visuomotor tracking with delayed visual
+  feedback,'' {\em Neuroscience}, vol.~16, no.~3, pp.~511--520, 1985.
+
+\bibitem{chen2007human}
+J.~Y. Chen, E.~C. Haas, and M.~J. Barnes, ``Human performance issues and user
+  interface design for teleoperated robots,'' {\em IEEE Transactions on
+  Systems, Man, and Cybernetics, Part C (Applications and Reviews)}, vol.~37,
+  no.~6, pp.~1231--1245, 2007.
+
+\bibitem{deng2003predictive}
+Z.~Deng and M.~Jagersand, ``Predictive display system for tele-manipulation
+  using image-based modeling and rendering,'' in {\em Intelligent Robots and
+  Systems, 2003.(IROS 2003). Proceedings. 2003 IEEE/RSJ International
+  Conference on}, vol.~3, pp.~2797--2802, IEEE, 2003.
+
+\bibitem{bejczy1991role}
+A.~K. Bejczy, S.~Venema, and W.~S. Kim, ``Role of computer graphics in space
+  telerobotics: Preview and predictive displays,'' in {\em Cooperative
+  Intelligent Robotics in Space}, vol.~1387, pp.~365--378, International
+  Society for Optics and Photonics, 1991.
+
+\end{thebibliography}
